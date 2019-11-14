@@ -57,7 +57,7 @@ def trainPerceptronAlgorithm(X, y, learn_rate = 0.01, num_epochs = 25):
 
 plt.scatter(df_p_true,df_q_true,c='green',label="True")
 plt.scatter(df_p_false,df_q_false,c='orange',label="False")
-plt.title("Scatter plot for the data.")
+plt.title("Simple sample or training")
 plt.ylim(-0.20,1.20)
 plt.legend()
 
