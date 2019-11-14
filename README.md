@@ -1,2 +1,4 @@
 # TestResult
-Neural Network basic with pythor training
+Neural Network basic training (other post) working propertly
+
+text: ![TestResult](Result Training.png)
